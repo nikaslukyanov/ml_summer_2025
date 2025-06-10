@@ -1,2 +1,10 @@
-# ml_summer_2025
-Learning ML and LLM
+### Journaling 
+
+# Week 1
+
+Learned git (git commit, pull, push, branch, merge, checkout, -f) 
+MLCC - Linear Regression
+Coded 
+
+
+
